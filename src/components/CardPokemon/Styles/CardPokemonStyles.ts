@@ -8,6 +8,7 @@ export const cardContainerStyles: React.CSSProperties = {
         border: "1px solid #f2f2f2",
         boxShadow: "0px 9px 60px 16px rgba(0,0,0,0.19)",
         margin: "40px",
+        width: "300px",
 }
 
 export const NameStyles: React.CSSProperties = {
